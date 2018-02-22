@@ -14,3 +14,18 @@
   max-width: 40%;
   height: auto;
 }
+.siteHeader,
+.photo{
+  text-align: center;
+}
+@media (min-width: 640px){
+  .photo-text{
+    width: 640px;
+    margin: auto;
+  }
+}
+
+  .photo-text2{
+    width: 640px;
+    margin: auto;
+  }
