@@ -1,4 +1,16 @@
-.flexible-images{
+.flexible-images-70{
+  max-width: 70%;
+  height: auto;
+}
+.flexible-images-60{
+  max-width: 70%;
+  height: auto;
+}
+.flexible-images-50{
   max-width: 50%;
+  height: auto;
+}
+.flexible-images-40{
+  max-width: 40%;
   height: auto;
 }
